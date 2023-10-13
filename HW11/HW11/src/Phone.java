@@ -18,7 +18,7 @@ public class Phone {
         System.out.println("Звонит абонент по имени " + namePhone);
     }
     public void receiveCall(String namePhone, int numberPhone) {
-        System.out.println("Звонит абонент по имени " + namePhone + "номер " + numberPhone);
+        System.out.println("Звонит абонент по имени " + namePhone + " номер " + numberPhone);
     }
 
 }
